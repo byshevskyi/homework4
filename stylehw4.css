@@ -1,0 +1,41 @@
+body {
+	background: #333333 url(images/back.png) repeat-x top left;
+}
+
+header {
+	background-color: #A4A4A4;
+	max-width: 1200px;
+	min-width: 450px;
+	height: 120px;
+	margin: 0 auto;
+}
+
+nav {
+	background-color: #E6E6E6;
+	max-width: 1200px;
+	min-width: 450px;
+	height: 30px;
+	margin: 0 auto;
+}
+
+article{
+    background-color: #5882FA;
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+aside{
+    background-color: #2E2EFE;
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+
+footer{
+    background-color: #4B8A08;
+    max-width: 1200px;
+	min-width: 450px;
+	height: 50px;
+	margin: 0 auto;
+}
